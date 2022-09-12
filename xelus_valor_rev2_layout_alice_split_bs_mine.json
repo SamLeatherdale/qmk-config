@@ -67,12 +67,12 @@
       "KC_RSFT",
       "KC_END",
       "KC_LCTL",
-      "KC_RGUI",
+      "KC_LGUI",
       "KC_SPC",
       "KC_LALT",
       "KC_SPC",
       "MO(1)",
-      "KC_RCTL"
+      "KC_RGUI"
     ],
     [
       "KC_PSCR",
